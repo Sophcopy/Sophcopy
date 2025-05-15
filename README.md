@@ -1,4 +1,4 @@
-- # Hey there, I'm SophCreates! 🤎
+- # Hey there, I'm SophCopy! 🤎
 
 Welcome to my corner of GitHub!
 
